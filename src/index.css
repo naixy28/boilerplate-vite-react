@@ -1,0 +1,15 @@
+body {
+  position: relative;
+  overflow-y: scroll;
+  font-family: 'miui', '-apple-system', 'Noto Sans', 'SF Pro Text', 'sans-serif',
+    'PingFang SC', 'Lantinghei SC', 'Microsoft Yahei', 'Hiragino Sans GB',
+    'Microsoft Sans Serif', 'WenQuanYi Micro Hei';
+  margin: 0;
+}
+html {
+  margin: 0;
+}
+.page {
+  padding: 0 20px 0 20px;
+  box-sizing: border-box;
+}
